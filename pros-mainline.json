@@ -52,5 +52,15 @@
 		"supported_kernels": ">=3.0.7,<3.1.0",
 		"target": "v5",
 		"version": "3.0.0"
+	},
+	{
+		"metadata": {
+			"location": "https://www.cs.purdue.edu/~berman5/okapilib@3.0.1.zip"
+		},
+		"name": "okapilib",
+		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
+		"supported_kernels": ">=3.0.7,<3.1.0",
+		"target": "v5",
+		"version": "3.0.1"
 	}
 ]
