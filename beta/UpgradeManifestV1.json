@@ -1,0 +1,1 @@
+{"py/object": "pros.upgrade.manifests.upgrade_manifest_v1.UpgradeManifestV1", "info_url": "https://pros.cs.purdue.edu/v5/blog/pros3-announcement.html", "version": {"py/object": "semantic_version.base.Version", "build": {"py/tuple": []}, "major": 3, "minor": 0, "partial": false, "patch": 7, "prerelease": {"py/tuple": []}}}
