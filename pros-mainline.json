@@ -2,110 +2,6 @@
 	{
 		"metadata": {
 			"output": "bin/output.bin",
-			"location": "https://www.cs.purdue.edu/~berman5/kernel@3.0.4.zip"
-		},
-		"name": "kernel",
-		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": null,
-		"target": "v5",
-		"version": "3.0.4"
-	},
-	{
-		"metadata": {
-			"output": "bin/output.bin",
-			"location": "https://www.cs.purdue.edu/~berman5/kernel@3.0.5.zip"
-		},
-		"name": "kernel",
-		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": null,
-		"target": "v5",
-		"version": "3.0.5"
-	},
-	{
-		"metadata": {
-			"output": "bin/output.bin",
-			"location": "https://www.cs.purdue.edu/~berman5/kernel@3.0.6.zip"
-		},
-		"name": "kernel",
-		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": null,
-		"target": "v5",
-		"version": "3.0.6"
-	},
-	{
-		"metadata": {
-			"output": "bin/output.bin",
-			"location": "https://www.cs.purdue.edu/~brookea/kernel@3.0.7.zip"
-		},
-		"name": "kernel",
-		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": null,
-		"target": "v5",
-		"version": "3.0.7"
-	},
-	{
-		"metadata": {
-			"location": "https://www.cs.purdue.edu/~berman5/okapilib@3.0.0.zip"
-		},
-		"name": "okapilib",
-		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": ">=3.0.7,<3.1.0",
-		"target": "v5",
-		"version": "3.0.0"
-	},
-	{
-		"metadata": {
-			"location": "https://www.cs.purdue.edu/~berman5/okapilib@3.0.1.zip"
-		},
-		"name": "okapilib",
-		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": ">=3.0.7,<3.1.0",
-		"target": "v5",
-		"version": "3.0.1"
-	},
-	{
-		"metadata": {
-			"location": "https://www.cs.purdue.edu/~brookea/okapilib@3.0.2.zip"
-		},
-		"name": "okapilib",
-		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": ">=3.0.7,<3.1.0",
-		"target": "v5",
-		"version": "3.0.2"
-	},
-	{
-		"metadata": {
-			"location": "https://www.cs.purdue.edu/~brookea/okapilib@3.0.3.zip"
-		},
-		"name": "okapilib",
-		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": ">=3.0.7,<3.1.0",
-		"target": "v5",
-		"version": "3.0.3"
-	},
-	{
-		"metadata": {
-			"location": "https://www.cs.purdue.edu/~brookea/okapilib@3.0.4.zip"
-		},
-		"name": "okapilib",
-		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": ">=3.0.7,<3.1.0",
-		"target": "v5",
-		"version": "3.0.4"
-	},
-	{
-		"metadata": {
-			"location": "https://www.cs.purdue.edu/~brookea/okapilib@3.0.5.zip"
-		},
-		"name": "okapilib",
-		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": ">=3.0.7,<3.1.0",
-		"target": "v5",
-		"version": "3.0.5"
-	},
-	{
-		"metadata": {
-			"output": "bin/output.bin",
 			"location": "https://www.cs.purdue.edu/~brookea/kernel@3.0.8.zip"
 		},
 		"name": "kernel",
@@ -123,5 +19,27 @@
 		"supported_kernels": ">=3.0.8,<3.1.0",
 		"target": "v5",
 		"version": "3.0.6"
+	},
+	{
+		"metadata": {
+			"output": "bin/output.bin",
+			"location": "https://pros.cs.purdue.edu/v5/releases/kernel@3.1.0.zip"
+		},
+		"name": "kernel",
+		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
+		"supported_kernels": null,
+		"target": "v5",
+		"version": "3.1.0"
+	},
+	{
+		"metadata": {
+			"output": "bin/output.bin",
+			"location": "https://pros.cs.purdue.edu/cortex/releases/kernel@2.12.2.zip"
+		},
+		"name": "kernel",
+		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
+		"supported_kernels": null,
+		"target": "cortex",
+		"version": "2.12.2"
 	}
 ]
