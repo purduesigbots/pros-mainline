@@ -48,7 +48,7 @@
 		},
 		"name": "okapilib",
 		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": ">=3.1.0",
+		"supported_kernels": ">=3.1.0,<3.1.1",
 		"target": "v5",
 		"version": "3.1.0"
 	},
@@ -58,7 +58,7 @@
 		},
 		"name": "okapilib",
 		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": ">=3.1.0",
+		"supported_kernels": ">=3.1.0,<3.1.1",
 		"target": "v5",
 		"version": "3.2.0"
 	},
@@ -68,7 +68,7 @@
 		},
 		"name": "okapilib",
 		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": ">=3.1.0",
+		"supported_kernels": ">=3.1.0,<3.1.1",
 		"target": "v5",
 		"version": "3.2.1"
 	},
