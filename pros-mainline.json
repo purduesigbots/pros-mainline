@@ -34,7 +34,7 @@
 	{
 		"metadata": {
 			"output": "bin/output.bin",
-			"location": "https://pros.cs.purdue.edu/cortex/releases/kernel@2.12.2.zip"
+			"location": "https://github.com/purduesigbots/pros/releases/download/2.12.2/kernel-template.zip"
 		},
 		"name": "kernel",
 		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
