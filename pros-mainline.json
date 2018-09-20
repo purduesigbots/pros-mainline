@@ -23,7 +23,7 @@
 	{
 		"metadata": {
 			"output": "bin/output.bin",
-			"location": "https://pros.cs.purdue.edu/v5/releases/kernel@3.1.0.zip"
+			"location": "https://pros.cs.purdue.edu/v5/_static/releases/kernel@3.1.0.zip"
 		},
 		"name": "kernel",
 		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
@@ -75,7 +75,7 @@
 	{
 		"metadata": {
 			"output": "bin/output.bin",
-			"location": "https://pros.cs.purdue.edu/v5/releases/kernel@3.1.1.zip"
+			"location": "https://pros.cs.purdue.edu/v5/_static/releases/kernel@3.1.1.zip"
 		},
 		"name": "kernel",
 		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
