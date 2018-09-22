@@ -89,7 +89,7 @@
 		},
 		"name": "okapilib",
 		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": ">=3.1.1",
+		"supported_kernels": "3.1.1",
 		"target": "v5",
 		"version": "3.3.0"
 	}
