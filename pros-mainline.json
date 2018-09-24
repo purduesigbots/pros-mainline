@@ -102,5 +102,15 @@
 		"supported_kernels": "3.1.1",
 		"target": "v5",
 		"version": "3.3.1"
+	},
+	{
+		"metadata": {
+			"location": "https://github.com/OkapiLib/OkapiLib/releases/download/v3.3.2/okapilib.3.3.2.zip"
+		},
+		"name": "okapilib",
+		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
+		"supported_kernels": "3.1.1",
+		"target": "v5",
+		"version": "3.3.2"
 	}
 ]
