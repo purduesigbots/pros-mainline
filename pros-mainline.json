@@ -232,7 +232,7 @@
 		},
 		"name": "okapilib",
 		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": ">=3.1.5",
+		"supported_kernels": ">=3.1.6",
 		"target": "v5",
 		"version": "3.3.12"
 	},
