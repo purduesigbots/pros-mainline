@@ -228,7 +228,7 @@
 	},
 	{
 		"metadata": {
-			"location": "https://github.com/OkapiLib/OkapiLib/releases/download/v3.3.11/okapilib@3.3.12.zip"
+			"location": "https://github.com/OkapiLib/OkapiLib/releases/download/v3.3.12/okapilib@3.3.12.zip"
 		},
 		"name": "okapilib",
 		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
