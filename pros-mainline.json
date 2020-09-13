@@ -326,5 +326,15 @@
 		"supported_kernels": ">=3.2.0",
 		"target": "v5",
 		"version": "4.0.4"
+	},
+	{
+		"metadata": {
+			"location": "https://github.com/purduesigbots/pros/releases/download/3.3.0/kernel@3.3.0.zip"
+		},
+		"name": "kernel",
+		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
+		"supported_kernels": null,
+		"target": "v5",
+		"version": "3.3.0"
 	}
 ]
