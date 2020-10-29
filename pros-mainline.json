@@ -346,5 +346,15 @@
 		"supported_kernels": ">=3.3.0",
 		"target": "v5",
 		"version": "4.0.5"
+	},
+	{
+		"metadata": {
+			"location": "https://pros.cs.purdue.edu/v5/_static/releases/kernel@3.3.1.zip"
+		},
+		"name": "kernel",
+		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
+		"supported_kernels": null,
+		"target": "v5",
+		"version": "3.3.1"
 	}
 ]
