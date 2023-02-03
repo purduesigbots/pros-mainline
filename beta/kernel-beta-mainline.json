@@ -1,6 +1,7 @@
 [
 	{
         	"metadata": {
+			"output": "bin/output.bin",
                     	"location": "https://pros.cs.purdue.edu/v5/_static/beta/kernel@4.0.0.zip"
             	},
            	"name": "kernel",
