@@ -1,44 +1,52 @@
 [
-		{
-		"metadata": {
-			"output": "bin/output.bin",
-			"location": "https://pros.cs.purdue.edu/v5/_static/releases/kernel@3.1.0.zip"
-		},
-		"name": "kernel",
-		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": null,
-		"target": "v5",
-		"version": "3.1.0"
+{
+        	"metadata": {
+                    	"location": "https://pros.cs.purdue.edu/v5/_static/beta/kernel@4.0.0.zip"
+            	},
+           	"name": "kernel",
+            	"py/object": "pros.conductor.templates.base_template.BaseTemplate",
+            	"supported_kernels": null,
+            	"target": "v5",
+            	"version": "4.0.0"
+    	},
+	{
+		  "metadata": {
+			"location": "https://pros.cs.purdue.edu/v5/_static/beta/liblvgl@8.3.0.zip"
+		  },
+		        "name": "liblvgl",
+		          "py/object": "pros.conductor.templates.base_template.BaseTemplate",
+		          "supported_kernels": ">=4.0.0",
+		          "target": "v5",
+		          "version": "8.3.0"
 	},
 	{
-		"metadata": {
-			"output": "bin/output.bin",
-			"location": "https://github.com/purduesigbots/pros/releases/download/2.12.2/kernel.2.12.2.zip"
-		},
-		"name": "kernel",
-		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": null,
-		"target": "cortex",
-		"version": "2.12.2"
+        	"metadata": {
+                    	"location": "https://pros.cs.purdue.edu/v5/_static/beta/kernel@4.0.3.zip"
+            	},
+           	"name": "kernel",
+            	"py/object": "pros.conductor.templates.base_template.BaseTemplate",
+            	"supported_kernels": null,
+            	"target": "v5",
+            	"version": "4.0.3"
+    	},
+	{
+		  "metadata": {
+			"location": "https://pros.cs.purdue.edu/v5/_static/beta/liblvgl@8.3.2.zip"
+		  },
+		        "name": "liblvgl",
+		          "py/object": "pros.conductor.templates.base_template.BaseTemplate",
+		          "supported_kernels": ">=4.0.3",
+		          "target": "v5",
+		          "version": "8.3.2"
 	},
 	{
-		"metadata": {
-			"location": "https://github.com/OkapiLib/OkapiLib/releases/download/v3.1.0/okapilib.3.1.0.zip"
-		},
-		"name": "okapilib",
-		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": ">=3.1.0,<3.1.1",
-		"target": "v5",
-		"version": "3.1.0"
-	},
-	{
-		"metadata": {
-			"location": "https://github.com/OkapiLib/OkapiLib/releases/download/v3.2.0/okapilib.3.2.0.zip"
-		},
-		"name": "okapilib",
-		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
-		"supported_kernels": ">=3.1.0,<3.1.1",
-		"target": "v5",
-		"version": "3.2.0"
+		  "metadata": {
+			"location": "https://pros.cs.purdue.edu/v5/_static/beta/okapilib@5.0.0.zip"
+		  },
+		        "name": "okapilib",
+		        "py/object": "pros.conductor.templates.base_template.BaseTemplate",
+		        "supported_kernels": ">=4.0.3",
+		        "target": "v5",
+		        "version": "5.0.0"
 	}
 ]
