@@ -68,5 +68,15 @@
 		        "supported_kernels": ">=4.0.3",
 		        "target": "v5",
 		        "version": "5.0.0"
-	}
+	},
+	{
+		  "metadata": {
+			"location": "https://pros.cs.purdue.edu/v5/_static/beta/liblvgl@5.3.2.zip"
+		  },
+		        "name": "liblvgl",
+		          "py/object": "pros.conductor.templates.base_template.BaseTemplate",
+		          "supported_kernels": ">=4.0.4",
+		          "target": "v5",
+		          "version": "5.3.2"
+	},
 ]
